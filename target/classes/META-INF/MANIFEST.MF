@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: JM-MediaArticleInterface
+Implementation-Version: 3.0.0-Released
+Built-By: Administrator
+Implementation-Vendor-Id: com.jm
+Build-Jdk: 1.8.0_66
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
